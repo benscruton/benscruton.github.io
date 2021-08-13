@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.9b0a12f5.chunk.css",
+    "main.css": "/static/css/main.1c7fd15c.chunk.css",
     "main.js": "/static/js/main.02d837f0.chunk.js",
     "main.js.map": "/static/js/main.02d837f0.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.32a6b32a.js",
@@ -10,7 +10,7 @@
     "static/js/3.8acf4413.chunk.js": "/static/js/3.8acf4413.chunk.js",
     "static/js/3.8acf4413.chunk.js.map": "/static/js/3.8acf4413.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.9b0a12f5.chunk.css.map": "/static/css/main.9b0a12f5.chunk.css.map",
+    "static/css/main.1c7fd15c.chunk.css.map": "/static/css/main.1c7fd15c.chunk.css.map",
     "static/js/2.a4b8fbfb.chunk.js.LICENSE.txt": "/static/js/2.a4b8fbfb.chunk.js.LICENSE.txt",
     "static/media/Scruton_Benjamin_resume.dc8f2df8.pdf": "/static/media/Scruton_Benjamin_resume.dc8f2df8.pdf",
     "static/media/addEditRemoveCategory.747007b8.webm": "/static/media/addEditRemoveCategory.747007b8.webm",
@@ -78,7 +78,7 @@
   "entrypoints": [
     "static/js/runtime-main.32a6b32a.js",
     "static/js/2.a4b8fbfb.chunk.js",
-    "static/css/main.9b0a12f5.chunk.css",
+    "static/css/main.1c7fd15c.chunk.css",
     "static/js/main.02d837f0.chunk.js"
   ]
 }
