@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.71992a61.chunk.css",
-    "main.js": "/static/js/main.61dae6bc.chunk.js",
-    "main.js.map": "/static/js/main.61dae6bc.chunk.js.map",
+    "main.js": "/static/js/main.0b824636.chunk.js",
+    "main.js.map": "/static/js/main.0b824636.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.32a6b32a.js",
     "runtime-main.js.map": "/static/js/runtime-main.32a6b32a.js.map",
     "static/js/2.b0960acc.chunk.js": "/static/js/2.b0960acc.chunk.js",
@@ -59,9 +59,9 @@
     "static/media/not_friend_profile.63089e0f.png": "/static/media/not_friend_profile.63089e0f.png",
     "static/media/offerDrawResign.0648bc0b.webm": "/static/media/offerDrawResign.0648bc0b.webm",
     "static/media/pawnPromotion.5ab18e2f.webm": "/static/media/pawnPromotion.5ab18e2f.webm",
-    "static/media/photo_cropped.0660c18a.png": "/static/media/photo_cropped.0660c18a.png",
-    "static/media/photo_cropped_dark.580a0123.png": "/static/media/photo_cropped_dark.580a0123.png",
     "static/media/profile.1addddbe.png": "/static/media/profile.1addddbe.png",
+    "static/media/profile_photo_crop.dde57a5d.png": "/static/media/profile_photo_crop.dde57a5d.png",
+    "static/media/profile_photo_crop_dark.fb422e76.png": "/static/media/profile_photo_crop_dark.fb422e76.png",
     "static/media/python.78b1e6fe.png": "/static/media/python.78b1e6fe.png",
     "static/media/react.fb59dfc6.png": "/static/media/react.fb59dfc6.png",
     "static/media/recipePage.593238e5.png": "/static/media/recipePage.593238e5.png",
@@ -79,6 +79,6 @@
     "static/js/runtime-main.32a6b32a.js",
     "static/js/2.b0960acc.chunk.js",
     "static/css/main.71992a61.chunk.css",
-    "static/js/main.61dae6bc.chunk.js"
+    "static/js/main.0b824636.chunk.js"
   ]
 }
